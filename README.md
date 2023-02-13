@@ -43,6 +43,10 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ###  touch with me 📨
 <a href='http://blog.sciencenet.cn/u/Archiemeng'><img src='https://img.shields.io/badge/科学网-Archimeng-red'></a>
 <a href='https://weiqimeng7.github.io'><img src='https://img.shields.io/badge/blog-Archiemeng-ff69b4'></a>
+<a href = "mailto: mengarchie@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/mengweiqi7" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href='https://www.xiaohongshu.com/user/profile/5d24894c000000001102ac62?xhsshare=CopyLink&appuid=5d24894c000000001102ac62&apptime=1676013177'><img src='https://img.shields.io/badge/小红书-孟小柒同学seven-red'></a>
+
 
 ### 心灵鸡汤🥣
 
