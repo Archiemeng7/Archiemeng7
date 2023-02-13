@@ -22,7 +22,7 @@
   
 ##  
   <div>
-  <img align="center" height='180px' src="https://github-readme-stats.Archiemeng7.cn/api?username=Archiemeng7&show_icons=true&theme=gruvbox&hide_border=true" /><img align="center" height='200px'  src="https://stats.justsong.cn/api/csdn?id=m0_46746587&theme=dark" />
+  <img align="center" height='180px' src="http://blog.sciencenet.cn/u/Archiemeng?username=孟维琦&show_icons=true&theme=gruvbox&hide_border=true" /><img align="center" height='200px'  src="https://stats.justsong.cn/api/csdn?id=m0_46746587&theme=dark" />
   
   </div>
 
@@ -41,7 +41,6 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ###  touch with me 📨
-![Visits Badge](https://visitor.leftover.cn?id=left0ver.left0ver)
 <a href='http://blog.sciencenet.cn/u/Archiemeng'><img src='https://img.shields.io/badge/科学网-Archimeng-red'></a>
 <a href='https://weiqimeng7.github.io'><img src='https://img.shields.io/badge/blog-Archiemeng-ff69b4'></a>
 
