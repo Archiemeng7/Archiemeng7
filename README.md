@@ -1,7 +1,7 @@
 
 <img align='center' src="https://readme-typing-svg.herokuapp.com/?lines=永远相信美好的事情即将发生"/>
 
-- Hi，there ! I am leftover👋🏻
+- Hi，there ! I am Archiemeng👋🏻
 - 我来自河北邯郸（中国历史最为悠久的古都之一，成语之都）🗺︎，城市虽小，但也有不一样的人文情怀🌇！
 - 目前是中南大学2021级学生.
 - 喜欢旅游✈️，跑步🏃，影视，阅读，摄影，捣鼓小玩意🧸，研究那些提高效率的工具🛠，coding 👨‍💻 and 一切美好的事物🌄.
@@ -16,7 +16,7 @@
 ##
 
  <div>
-   <img align="center" height='205px' src="https://stat.leftover.cn/bbdc?userId=47344140&nickname=leftover&hide_border=true" /><img align="center" height='180px'  src="https://github-readme-stats.leftover.cn/api/top-langs/?username=left0ver&layout=compact" />
+   <img align="center" height='205px' src="https://stat.leftover.cn/bbdc?userId=31683610&nickname=孟小柒同学seven&hide_border=true" /><img align="center" height='180px'  src="https://github-readme-stats.leftover.cn/api/top-langs/?username=left0ver&layout=compact" />
   
  </div>
   
@@ -41,9 +41,9 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ###  touch with me 📨
-![Visits Badge](https://github.com/Archiemeng7)
-<a href='http://blog.sciencenet.cn/u/Archiemeng'><img src='https://img.shields.io/badge/csdn-left0ver-red'></a>
-<a href='https://weiqimeng7.github.io'><img src='https://img.shields.io/badge/blog-leftover-ff69b4'></a>
+![Visits Badge](https://visitor.leftover.cn?id=left0ver.left0ver)
+<a href='http://blog.sciencenet.cn/u/Archiemeng'><img src='https://img.shields.io/badge/科学网-Archimeng-red'></a>
+<a href='https://weiqimeng7.github.io'><img src='https://img.shields.io/badge/blog-Archiemeng-ff69b4'></a>
 
 ### 心灵鸡汤🥣
 
