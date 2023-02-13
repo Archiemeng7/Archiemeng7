@@ -16,7 +16,7 @@
 ##
 
  <div>
-   <img align="center" height='205px' src="https://stat.leftover.cn/bbdc?userId=31683610&nickname=孟小柒同学seven&hide_border=true" /><img align="center" height='180px'  src="https://github-readme-stats.leftover.cn/api/top-langs/?username=Archiemeng7&layout=compact" /><img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archiemeng7&layout=compact&langs_count=16&theme=dracula"/>
+   <img align="center" height='205px' src="https://stat.leftover.cn/bbdc?userId=31683610&nickname=孟小柒同学seven&hide_border=true" /><img align="center" height='160px'  src="https://github-readme-stats.leftover.cn/api/top-langs/?username=Archiemeng7&layout=compact" />
   
  </div>
   
