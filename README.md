@@ -11,7 +11,7 @@
 - 愿我们都能不再为生活奔波，做喜欢的事.
 - 希望能够在这个世界留下点什么，尽管可能微不足道.
 
-![Snake animation](https://github.com/Archiemeng7/Archiemeng7/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Archiemeng7/Archiemeng7/output/github-contribution-grid-snake.svg)
 
 ##
 
