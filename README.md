@@ -2,11 +2,11 @@
 <img align='center' src="https://readme-typing-svg.herokuapp.com/?lines=永远相信美好的事情即将发生"/>
 
 - Hi，there ! I am leftover👋🏻
-- 我来自赣州石城（中国地图上的一个小县城）🗺︎，县城虽小，但也有不一样的风景🌇！
-- 目前是井冈山大学2019级学生（有名的红色学校）（仅在红色学校之中🤫）.
-- 喜欢乒乓球🏓，旅游🌍✈️，跑步🏃，动漫，捣鼓小玩意🧸，研究那些提高效率的工具🛠，二次元⚔️，coding 👨‍💻 and 一切美好的事物🌄.
+- 我来自河北邯郸（中国历史最为悠久的古都之一，成语之都）🗺︎，城市虽小，但也有不一样的人文情怀🌇！
+- 目前是中南大学2021级学生.
+- 喜欢旅游✈️，跑步🏃，影视，阅读，摄影，捣鼓小玩意🧸，研究那些提高效率的工具🛠，coding 👨‍💻 and 一切美好的事物🌄.
 - 永远相信美好的事情即将发生👀.
-- [码上神域](https://leftover.cn)是我的个人博客，快来看看叭（超级期待）！！！🤞
+- [孟小柒同学seven](https://weiqimeng7.github.io)是我的个人博客，快来看看叭（超级期待）！！！🤞
 - 喜欢记录一些学习路上遇到的困难以及解决的办法，希望能够帮助到别人，让别人少走弯路（不要像我一样傻乎乎地踩坑🕳︎🚶).
 - 愿我们都能不再为生活奔波，做喜欢的事.
 - 希望能够在这个世界留下点什么，尽管可能微不足道.
@@ -41,9 +41,9 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ###  touch with me 📨
-![Visits Badge](https://visitor.leftover.cn?id=left0ver.left0ver)
-<a href='https://blog.csdn.net/m0_52537576?spm=1010.2135.3001.5343'><img src='https://img.shields.io/badge/csdn-left0ver-red'></a>
-<a href='https://leftover.cn'><img src='https://img.shields.io/badge/blog-leftover-ff69b4'></a>
+![Visits Badge](https://github.com/Archiemeng7)
+<a href='http://blog.sciencenet.cn/u/Archiemeng'><img src='https://img.shields.io/badge/csdn-left0ver-red'></a>
+<a href='https://weiqimeng7.github.io'><img src='https://img.shields.io/badge/blog-leftover-ff69b4'></a>
 
 ### 心灵鸡汤🥣
 
